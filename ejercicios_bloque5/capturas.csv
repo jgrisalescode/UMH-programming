@@ -1,0 +1,11 @@
+turno,color,pieza
+1,blancas,Peon
+2,negras,Caballo
+3,blancas,Alfil
+4,negras,Peon
+5,blancas,Torre
+6,negras,Dama
+7,blancas,Caballo
+8,negras,Alfil
+9,blancas,Peon
+10,negras,Torre
