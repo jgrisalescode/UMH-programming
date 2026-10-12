@@ -7,7 +7,7 @@ with open(path, "w") as file:
     file.write("3,blancas,Peon\n")
     file.write("7,negras,Caballo")
 
-with open(path, "r") as file:
+with open(path, "r", newline="") as file:
     lector = csv.reader(file)
 
     for linea in lector:
