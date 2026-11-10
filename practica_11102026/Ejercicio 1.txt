@@ -1,0 +1,7 @@
+1 1
+2 3
+4 7
+5 12
+
+Resultado 12
+El 6 no se agrega por que es modulo % 3 y salta a la siguiente iteración.
