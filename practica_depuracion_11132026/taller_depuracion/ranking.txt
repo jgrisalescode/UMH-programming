@@ -1,0 +1,8 @@
+ana,10
+luis,7
+ana,10
+luis,7
+ana,10
+luis,7
+ana,10
+luis,7

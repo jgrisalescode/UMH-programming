@@ -1,9 +1,9 @@
 # Objetivo: cada partida anota SUS propios movimientos.
 class Partida:
-    movimientos: list[str] = []
 
     def __init__(self, nombre: str) -> None:
         self.nombre: str = nombre
+        self.movimientos: list[str] = []
 
     def anotar(self, movimiento: str) -> None:
         self.movimientos.append(movimiento)
