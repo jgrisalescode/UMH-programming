@@ -1,0 +1,14 @@
+TALLER DE DEPURACIÓN · Fundamentos de la Programación
+
+Cada fichero .py contiene UN fallo. Trabajad por parejas y, para cada programa:
+  1. Ejecutadlo en VS Code (Ctrl+F5) y comparad lo que sale con el objetivo del comentario de la primera línea.
+  2. Explicad POR QUÉ falla (con palabras, no solo "he cambiado esto").
+  3. Corregidlo cambiando lo mínimo y comprobad que ahora se cumple el objetivo.
+
+Programas 1 a 4: el programa se detiene con un error.
+Programas 5 a 10: el programa NO da error, pero el resultado es incorrecto.
+
+Notas:
+  - Los programas 2 y 7 piden datos por teclado: probad con 20 (programa 2) y con n y s (programa 7).
+  - El programa 9 crea el fichero ranking.txt en la carpeta: borradlo antes de volver a ejecutarlo tras corregirlo.
+  - No miréis las soluciones hasta haberlo intentado.
